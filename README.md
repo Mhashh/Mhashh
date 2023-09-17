@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mahesh Tiria </h1>
-<h3 align="center">Currently a student, looking for entry level job opportunities . Dabbling with web3 and ml for now.</h3>
+<h3 align="center">Currently a student at NIT, Trichy MCA24, looking for entry level job opportunities . Exploring web3 and ml for now.</h3>
 
 
 
